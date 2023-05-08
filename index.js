@@ -17,6 +17,6 @@ app.listen(3000, (error) => {
   if (error) {
     console.log("Erro ao Iniciar.");
   } else {
-    console.log("Servidor Iniciado.");
+    console.log("Servidor Iniciado Modificado.");
   }
 })
