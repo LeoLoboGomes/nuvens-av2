@@ -18,5 +18,6 @@
   "homepage": "https://github.com/LeoLoboGomes/nuvens-av2#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {}
 }
